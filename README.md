@@ -40,3 +40,8 @@ function soma(a,b){
     return a + b;
 }
 ``` 
+
+## Lista de Tarefas:
+- [ x ] Área de membros
+- [ x ] Banner com Logo
+- [ ] Sistemas de login
