@@ -32,3 +32,11 @@ Checkout, Tela de Produto, Catálogo, Home com Banner
 ## Links Interessantes:
 
 [Google](https://www.google.com)
+
+## Código da função soma
+
+``` JavaScript
+function soma(a,b){
+    return a + b;
+}
+``` 
