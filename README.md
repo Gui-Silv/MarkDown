@@ -26,3 +26,5 @@ Checkout, Tela de Produto, Catálogo, Home com Banner
 ### Imagem Local
 
 ![Logo do Python](img/python.png)
+
+![Logo do PHP](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/711px-PHP-logo.svg.png)
